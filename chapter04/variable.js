@@ -26,3 +26,6 @@ score = 80;
 var score;
 
 console.log(score);
+
+var person, $elem, _name, first_name, val1;
+
