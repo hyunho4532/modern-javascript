@@ -9,4 +9,5 @@
 
 <ul>
   <li><a href="https://github.com/hyunho4532/modern-javascript/blob/main/chapter04.md">변수</a></li>
+  <li><a href="https://github.com/hyunho4532/modern-javascript/blob/main/chapter05.md">표현식과 문</a></li>
 </ul>
